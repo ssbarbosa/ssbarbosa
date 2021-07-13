@@ -2,7 +2,7 @@
 <h3 align="center">Estou colaborando e aprender junto com a comunidade GitHub.</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/ssbarbosa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="amarildoxp" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/samuel-sousa-barbosa-4bb7b291/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="amarildoxp" height="30" width="40" /></a>
 <a href="https://www.instagram.com/s.sbarbosa/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="s.sbarbosa" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>

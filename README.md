@@ -1,5 +1,4 @@
-Amarildo, [13.07.21 10:18]
-<h1 align="center">Hello! I'm Amarildo 👩🏻‍💻</h1>
+<h1 align="center">Hello! I'm Samuel 👩🏻‍💻</h1>
 <h3 align="center">Carreira desenvolvida na área de Tecnologia da Informação, com ampla experiência no gerenciamento de projetos, e suporte na área.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sprucegabriela&label=Profile%20views&color=0e75b6&style=flat" alt="sprucegabriela" /> </p>

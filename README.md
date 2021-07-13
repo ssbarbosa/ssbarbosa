@@ -1,5 +1,5 @@
 <h1 align="center">Hello! I'm Samuel 👩🏻‍💻</h1>
-<h3 align="center">Estou procurando colaborar e aprender junto com a comunidade GitHub.</h3>
+<h3 align="center">Estou colaborando e aprender junto com a comunidade GitHub.</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/ssbarbosa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="amarildoxp" height="30" width="40" /></a>

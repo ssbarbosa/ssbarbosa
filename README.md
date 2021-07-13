@@ -1,5 +1,9 @@
 <h1 align="center">Hello! I'm Samuel 👩🏻‍💻</h1>
-<h3 align="center">Estou colaborando e aprender junto com a comunidade GitHub.</h3>
+
+- 🌱 Atualmente estou aprendendo HTML, CSS, Javascript, Typescript, React JS e GitHub.
+- 💞 Estou colaborando e aprendendo com a comunidade de programação.
+- 📫 Contato: samuelsousabarbosa@gmail.com
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/samuel-sousa-barbosa-4bb7b291/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="amarildoxp" height="30" width="40" /></a>
